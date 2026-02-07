@@ -73,8 +73,6 @@ async def ping(client: Client, message: Message):
     uptime = await _human_time_duration(int(uptime_sec))
     await message.delete()
     await r.edit(
-        f"𝗥𝗘𝗣𝗢 ⁂\n\n"
-        f"[💫 𝐑ᴇᴘᴏ 💫](https://github.com/itzshukla/STRANGER-OPUSERBOT2.0/fork)\n"
     )    
 
 
