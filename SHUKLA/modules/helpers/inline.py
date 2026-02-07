@@ -19,7 +19,7 @@ async def help_menu_logo(answer):
             photo_url=f"{thumb_image}",
             title="💫 ʜᴇʟᴘ ᴍᴇɴᴜ  ✨",
             thumb_url=f"{thumb_image}",
-            description=f"🥀 Open Help Menu Of SHUKLAUSERBOT ✨...",
+            description=f"🥀 Open Help Menu Of USERBOT ✨...",
             caption=f"""
             **💫 ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʜᴇʟᴘ ᴍᴇɴᴜ ᴏᴘ.
 sʜᴜᴋʟᴀ ᴜsᴇʀʙᴏᴛ  » {__version__} ✨
@@ -27,7 +27,7 @@ sʜᴜᴋʟᴀ ᴜsᴇʀʙᴏᴛ  » {__version__} ✨
 ❤️ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs ᴛᴏ
 ɢᴇᴛ ᴜsᴇʀʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs ❤️
  
-🌹ᴘᴏᴡᴇʀᴇᴅ ʙʏ ♡  [SHUKLA TECH](https://t.me/ITSZSHUKLA) 🌹**""",
+🌹ᴘᴏᴡᴇʀᴇᴅ ʙʏ ♡  [ᯓ𝐈тᷟʑ‌ 🔰 𝚸 ‌ꫀ 𐑾 ƒ ‌ꫀ c 𝛕 ᴵᴰ'ˢ](https://t.me/PerfectseIler) 🌹**""",
             reply_markup=InlineKeyboardMarkup(button),
         )
     )
@@ -47,7 +47,7 @@ sʜᴜᴋʟᴀ ᴜsᴇʀʙᴏᴛ  » {__version__} ✨
 ❤️ᴄʟɪᴄᴋ ᴏɴ ʙᴇʟᴏᴡ ʙᴜᴛᴛᴏɴs ᴛᴏ
 ɢᴇᴛ ᴜsᴇʀʙᴏᴛ ᴄᴏᴍᴍᴀɴᴅs ❤️
  
-🌹ᴘᴏᴡᴇʀᴇᴅ ʙʏ ♡  [SHUKLA TECH](https://t.me/ITSZSHUKLA) 🌹**""",
+🌹ᴘᴏᴡᴇʀᴇᴅ ʙʏ ♡  [ᯓ𝐈тᷟʑ‌ 🔰 𝚸 ‌ꫀ 𐑾 ƒ ‌ꫀ c 𝛕 ᴵᴰ'ˢ](https://t.me/@PerfectseIler) 🌹**""",
             disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(button),
