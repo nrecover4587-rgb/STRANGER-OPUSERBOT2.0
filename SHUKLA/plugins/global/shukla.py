@@ -2,5 +2,5 @@
 
 __NAME__ = "Sʜᴜᴋʟᴀ"
 __MENU__ = """
- **@ITSZSHUKLA**
+ **@PerfectseIler**
 """
